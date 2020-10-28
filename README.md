@@ -1,7 +1,8 @@
 # Inventory-System for Unity3D games.
 
 * [ENG]  Inventory system, retractable inventory - with database, and developer console.
-* [RU] *Система инвентаря, выдвижной инвентарь - вместе с базой предметов, всплывающими подсказками, и интерактивной консолью разработчика.
+* [RU] Система инвентаря, выдвижной инвентарь - вместе с базой предметов, всплывающими подсказками, и интерактивной консолью разработчика.
+
 
 ### Превью работы инвентаря / Inventory-system preview
 ![alt_text](https://raw.githubusercontent.com/DanielGDS/Inventory.Retractable-Inventory-System/main/InventoryPreviewGif.gif)
